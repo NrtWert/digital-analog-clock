@@ -2,7 +2,7 @@ import turtle
 from datetime import datetime
 
 wn = turtle.Screen()
-wn.title("Аналоговые часы")
+wn.title("digital-analog clock")
 wn.bgcolor('#FFD460')
 wn.setup(width=500, height=500)
 wn.tracer(0)
